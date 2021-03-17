@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.regex.Pattern;
 
 public class PIN_Code {
     public static void main(String[] args) {
